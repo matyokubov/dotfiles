@@ -8,7 +8,7 @@ Key bindings:
   Move focus (choose the window as active): `SUPER+LEFT, RIGHT, UP, DOWN`<br>
   Move window: `SUPER+SHIFT+h+l+k+j`<br>
   Resize the window: `SUPER+SHIFT+LEFT, RIGHT, UP, DOWN`<br>
-  Print Screen: `SUPER+PrtScr`<br
+  Print Screen: `SUPER+PrtScr`<br>
   Copy/Paste text through terminals: `CTRL+SHIFT+C / CTRL+SHIFT+V`
 <br><br>
 Additional:
